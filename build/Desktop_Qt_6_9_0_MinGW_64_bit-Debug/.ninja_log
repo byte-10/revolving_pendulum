@@ -1,0 +1,9 @@
+# ninja log v6
+23	558	7692003800971012	Lab112_Pendulum_autogen/timestamp	17735d85faf406a5
+23	558	7692003800971012	Lab112_Pendulum_autogen/mocs_compilation.cpp	17735d85faf406a5
+566	2685	7692003801772120	CMakeFiles/Lab112_Pendulum.dir/mainwindow.cpp.obj	c082f3243749b74d
+23	558	7692003800971012	C:/Users/Vadim/Documents/Projects/Lab112_Pendulum/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/Lab112_Pendulum_autogen/timestamp	17735d85faf406a5
+23	558	7692003800971012	C:/Users/Vadim/Documents/Projects/Lab112_Pendulum/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/Lab112_Pendulum_autogen/mocs_compilation.cpp	17735d85faf406a5
+560	2488	7692003801697025	CMakeFiles/Lab112_Pendulum.dir/Lab112_Pendulum_autogen/mocs_compilation.cpp.obj	52925716c98a198e
+564	2519	7692003801742116	CMakeFiles/Lab112_Pendulum.dir/main.cpp.obj	a4c14602e61b1327
+2685	2812	7692003822961004	Lab112_Pendulum.exe	71765e83d20a8258
